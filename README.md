@@ -1,10 +1,9 @@
+### Hi there 👋, I'm Binita K C. 
 
-
-### Hi there 👋, I am Bini. 
-#### Undergraduate Research Assistant
 I am a senior majoring in Biomedical Engineering with double minors in Computer Science and Engineering and Mathematics. I am an international student from Nepal studying in University of Texas at Arlington in USA.
 
-Skills: MATLAB/ Python/ C/ Java/ Sql/ 
+### Skills: 
+MATLAB/ Python/ C/ Java/ Sql/ 
 
 - 🔭 I’m currently working on this page. 
 
