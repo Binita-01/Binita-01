@@ -1,10 +1,14 @@
-### Hi there 👋, I'm Binita K C. 
+### 👋 Hi there, I'm Binita K C
 
-I am a senior majoring in Biomedical Engineering with double minors in Computer Science and Engineering and Mathematics. I am an international student from Nepal studying in University of Texas at Arlington in USA.
+I'm a first-year PhD student in **Biomedical Engineering** at the **University of Texas at Arlington**. 
 
-### Skills: 
-MATLAB/ Python/ C/ Java/ Sql/ 
+My research interests lie at the intersection of **signal processing**, **machine learning**, and **biomedical systems**, especially applied to **cerebral autoregulation**, **wearable tech**, and **health data modeling**.
 
-- 🔭 I’m currently working on this page. 
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binita-01)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Stats
+
+[![Binita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binita-01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Let's Connect
+Feel free to reach out or collaborate on data-driven health research, bioengineering applications, or cool coding projects!
