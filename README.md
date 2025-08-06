@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Binita K C
 
-I'm a first-year PhD student in **Biomedical Engineering** at the **University of Texas at Arlington**. 
+I am a first-year PhD student in **Biomedical Engineering** at the **University of Texas at Arlington**. 
 
 My research interests lie at the intersection of **signal processing**, **machine learning**, and **biomedical systems**, especially applied to **cerebral autoregulation**, **wearable tech**, and **health data modeling**.
 
